@@ -1,5 +1,3 @@
-import org.jetbrains.annotations.NotNull;
-
 /**
  * @author sauceWu .
  * @since 2018/1/26 14:24
@@ -30,7 +28,7 @@ class ComplexNumberMultiplication {
 
 
 //   实际上短String 用+ 连接更快 但为了良好习惯 还是使用StringBuilder
-    @NotNull
+
     public static String complexNumberMultiply(String a, String b) {
         StringBuilder stringBuilder = new StringBuilder();
         int indexA=a.indexOf("+");

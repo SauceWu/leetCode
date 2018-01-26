@@ -1,8 +1,7 @@
 #LeetCode
 leetCode刷题练习册
 sort 文件夹下是几种常见的排序方法
-
-
+顺序是从ar率高->低
 
 | # | Problem |    Level    |  Language | des|
 |:-------:|:-------:|:--------------|:------:|:---------|
@@ -23,5 +22,6 @@ sort 文件夹下是几种常见的排序方法
 |14|[657-Judge Route Circle](https://leetcode.com/problems/Judge-Route-Circle/description/)|Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/JudgeRouteCircle.java)||
 |15|[728-Self Dividing Numbers](https://leetcode.com/problems/Self-Dividing-Numbers/description/)|Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SelfDividingNumbers.java)||
 |16|[760-Find Anagram Mappings](https://leetcode.com/problems/Find-Anagram-Mappings/description/)|Medium|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/FindAnagramMappings.java)||
- 
-
+|17|[344-Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseString.java)||
+|18|[557- Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseWordStringIII.java)||
+)

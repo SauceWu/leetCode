@@ -4,12 +4,9 @@
  */
 
 class PalindromeNumber {
-    public static void main(String[] src) {
-        boolean result = isPalindrome(-2147483648);
-        System.out.print(result);
-    }
 
-    public static boolean isPalindrome(int x) {
+
+    public  boolean isPalindrome(int x) {
         if (x < 0) {
             return false;
         }

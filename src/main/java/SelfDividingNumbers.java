@@ -8,15 +8,9 @@ import java.util.List;
  */
 
 class SelfDividingNumbers {
-    public static void main(String[] src) {
-        List<Integer> result = selfDividingNumbers(12, 50);
-        for (Integer integer : result) {
-            System.out.print(integer);
-            System.out.print("-");
-        }
-    }
 
-    public static List<Integer> selfDividingNumbers(int left, int right) {
+
+    public  List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> result = new ArrayList<>();
         for (int i = left; i <= right; i++) {
             int tmp = i;

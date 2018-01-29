@@ -2,7 +2,7 @@ package sort;
 
 import java.util.Random;
 
-public class Main {
+public class Sort {
 
     public static void main(String[] args) {
         int[] array = new int[100];

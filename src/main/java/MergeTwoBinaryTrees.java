@@ -6,9 +6,7 @@ import bean.TreeNode;
  */
 
 class MergeTwoBinaryTrees {
-    public static void main(String[] src) {
 
-    }
 
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         TreeNode tmp = t1;

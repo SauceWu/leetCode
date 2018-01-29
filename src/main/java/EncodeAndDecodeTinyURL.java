@@ -4,11 +4,7 @@
  */
 
 class EncodeAndDecodeTinyURL {
-    public static void main(String[] src) {
-        EncodeAndDecodeTinyURL encodeAndDecodeTinyURL = new EncodeAndDecodeTinyURL();
-        String result = encodeAndDecodeTinyURL.decode(encodeAndDecodeTinyURL.encode("http://www.saucewu.site"));
-        System.out.print(result);
-    }
+
 
     public String encode(String longUrl) {
         return longUrl;

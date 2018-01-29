@@ -6,12 +6,8 @@ import java.util.Arrays;
  */
 
 class ArrayPartition {
-    public static void main(String[] src) {
-        System.out.print(arrayPairSum(new int[]{1,2,3,4}));
 
-    }
-
-    public static int arrayPairSum(int[] nums) {
+    public  int arrayPairSum(int[] nums) {
         int result = 0;
         int index = 0;
         Arrays.sort(nums);

@@ -4,14 +4,8 @@
  */
 
 class TwoSum {
-    public static void main(String[] src){
-        int[] result=twoSum(new int[]{3,2,4},6);
-        for (int i : result) {
-            System.out.print(i);
-        }
-    }
 
-        public static int[] twoSum(int[] nums, int target) {
+        public  int[] twoSum(int[] nums, int target) {
             int[] result=new int[2];
             for(int i =0; i<nums.length-1; i++){
 

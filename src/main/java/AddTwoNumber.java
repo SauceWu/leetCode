@@ -4,13 +4,6 @@
  */
 
 class AddTwoNumber {
-    public static void main(String[] src) {
-        AddTwoNumber a = new AddTwoNumber();
-        ListNode s = a.addTwoNumbers(a.g(new int[]{1, 8}), a.g(new int[]{0}));
-        System.out.print(s.toString()   );
-
-    }
-
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         if (l1 == null && l2 == null)
             return null;

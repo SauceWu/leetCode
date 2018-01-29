@@ -7,11 +7,6 @@ import java.util.Arrays;
 
 class LongestCommonPrefix {
 
-    public static void main(String[] src) {
-        String result = longestCommonPrefix(new String[]{"aaaabbcc", "asdqwev", "as"});
-        System.out.print(result);
-    }
-
 
     public static String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) return "";

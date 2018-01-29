@@ -4,10 +4,8 @@
  */
 
 class ReverseInteger {
-    public static void main(String[] src){
-        System.out.print(reverse(1534236469));
-    }
-    public static int reverse(int x) {
+
+    public  int reverse(int x) {
         String s=String.valueOf(x);
         if(x<0){
             s=s.substring(1,s.length());

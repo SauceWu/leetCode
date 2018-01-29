@@ -4,15 +4,9 @@
  */
 
 class JudgeRouteCircle {
-    public static void main(String[] src) {
-        System.out.print(judgeCircle("UDLR"));
-        System.out.print("\n");
-        System.out.print(judgeCircle("ULLLLLLL"));
-
-    }
 
 
-    public static boolean judgeCircle(String moves) {
+    public  boolean judgeCircle(String moves) {
         int x = 0;
         int y = 0;
         char[] move = moves.toCharArray();

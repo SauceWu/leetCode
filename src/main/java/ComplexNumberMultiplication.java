@@ -4,32 +4,10 @@
  */
 
 class ComplexNumberMultiplication {
-    public static void main(String[] src) {
-        String result = complexNumberMultiply("1+1i", "0+0i");
-        System.out.print(result);
-
-    }
-
-//    @NotNull
-//    public static String complexNumberMultiply(String a, String b) {
-//        StringBuilder stringBuilder = new StringBuilder();
-//        String[] aa = a.split("[+]");
-//        String[] bb = b.split("[+]");
-//        int aaa = Integer.parseInt(aa[0]);
-//        int bbb = Integer.parseInt(bb[0]);
-//        int aaaa=Integer.parseInt(aa[1].replace("i",""));
-//        int bbbb=Integer.parseInt(bb[1].replace("i",""));
-//        stringBuilder.append(aaa * bbb-aaaa*bbbb);
-//        stringBuilder.append("+");
-//        stringBuilder.append(aaa * bbbb+bbb*aaaa);
-//        stringBuilder.append("i");
-//        return stringBuilder.toString();
-//    }
-
 
 //   实际上短String 用+ 连接更快 但为了良好习惯 还是使用StringBuilder
 
-    public static String complexNumberMultiply(String a, String b) {
+    public  String complexNumberMultiply(String a, String b) {
         StringBuilder stringBuilder = new StringBuilder();
         int indexA=a.indexOf("+");
         int indexB=b.indexOf("+");

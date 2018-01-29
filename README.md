@@ -4,7 +4,7 @@ sort 文件夹下是几种常见的排序方法
 顺序是从ar率高->低
 
 | # | Problem |    Level    |  Language | des|
-|:-------:|:-------:|:--------------|:------:|:---------|
+|:-------:|:-------:|:--------------|:------:|:---------:|
 |0|[1-Two Sum](https://leetcode.com/problems/two-sum/description/)|easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/TwoSum.java)||
 |1|[2-Add Two Numbers](https://leetcode.com/problems/Add-Two-Numbers/description/)|Medium|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/AddTwoNumber.java)||
 |2|[7-Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseInteger.java)||

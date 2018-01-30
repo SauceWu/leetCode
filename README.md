@@ -15,9 +15,9 @@ sort 文件夹下是几种常见的排序方法
 |7|[535-Encode and Decode TinyURL](https://leetcode.com/problems/Encode-and-Decode-TinyURL/description/)|Medium|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/EncodeAndDecodeTinyURL.java)|非常取巧的办法 并不推荐|
 |8|[537Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)|Medium|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ComplexNumberMultiplication.java)||
 |9|[561-Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ArrayPartition.java)|split效率比indexOf+substring效率低|
-|10|[595-Big Countries](https://leetcode.com/problems/Big-Countries/description/)|easy|[MySql](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/sql/BigCountries.java)||
+|10|[595-Big Countries](https://leetcode.com/problems/Big-Countries/description/)|easy|[MySQL](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/sql/BigCountries.java)||
 |11|[617-Merge Two Binary Trees](https://leetcode.com/problems/Merge-Two-Binary-Trees/description/)|easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MergeTwoBinaryTrees.java)||
-|12|[627-Swap Salary](https://leetcode.com/problems/Swap-Salary/description/)|easy|[MySql](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SwapSalary.java)||
+|12|[627-Swap Salary](https://leetcode.com/problems/Swap-Salary/description/)|easy|[MySQL](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SwapSalary.java)||
 |13|[654-Maximum Binary Tree](https://leetcode.com/problems/Maximum-Binary-Tree/description/)|Medium|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MaximumBinaryTree.java)||
 |14|[657-Judge Route Circle](https://leetcode.com/problems/Judge-Route-Circle/description/)|Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/JudgeRouteCircle.java)||
 |15|[728-Self Dividing Numbers](https://leetcode.com/problems/Self-Dividing-Numbers/description/)|Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SelfDividingNumbers.java)||
@@ -25,3 +25,9 @@ sort 文件夹下是几种常见的排序方法
 |17|[344-Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseString.java)||
 |18|[557- Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)|Easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseWordStringIII.java)||
 |19|[500-Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)|Easy|[Kotlin](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/KeyboardRow.kt)|kotlin 效率有点低||
+|20|[620-Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)|Easy|[MySQL](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/sql/NotBoringMovies.java)||
+|21|[771-Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[kotlin](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/JewelsAndStones.kt)|kotlin 效率真的低 可能是leetCode网站的BUG？？？|
+|22|[682-Baseball Game](https://leetcode.com/problems/baseball-game/description/)|Easy|[kotlin](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BaseballGame.kt)|实锤 leetcode kotlin环境有问题 stack版本居然通不过编译 可能是版本较低|
+
+
+

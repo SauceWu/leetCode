@@ -28,6 +28,13 @@ sort 文件夹下是几种常见的排序方法
 |20|[620-Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)|Easy|[MySQL](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/sql/NotBoringMovies.java)||
 |21|[771-Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[kotlin](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/JewelsAndStones.kt)|kotlin 效率真的低 可能是leetCode网站的BUG？？？|
 |22|[682-Baseball Game](https://leetcode.com/problems/baseball-game/description/)|Easy|[kotlin](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BaseballGame.kt)|实锤 leetcode kotlin环境有问题 stack版本居然通不过编译 可能是版本较低|
+|23|[412-Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/FizzBuzz.java)|递归会stackoverflow|
+|24|[575-Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/DistributeCandies.java)||
+|25|[338-Counting Bits](https://leetcode.com/problems/counting-bits/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/CountingBits.java)|这个方法确实骚|
+|26|[566-Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReshapeTheMatrix.java)||
+|27|[766-Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReshapeTheMatrix.java)||
+|28|[763-Partition Labels](https://leetcode.com/problems/partition-labels/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PartitionLabels.java)||
+|29|[762-Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PrimeNumberOfSetBitsInBinaryRepresentation.java)||
 
 
 

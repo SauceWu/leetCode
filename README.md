@@ -37,4 +37,4 @@ sort 文件夹下是几种常见的排序方法
 |29|[762-Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PrimeNumberOfSetBitsInBinaryRepresentation.java)||
 |30|[496-Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NextGreaterElementI.java)||
 |31|[406-Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/QueueReconstructionByHeight.java)||
-
+|32|[665-Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NondecreasingArray.java)||

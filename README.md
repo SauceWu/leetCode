@@ -38,3 +38,23 @@ sort 文件夹下是几种常见的排序方法
 |30|[496-Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NextGreaterElementI.java)||
 |31|[406-Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/QueueReconstructionByHeight.java)||
 |32|[665-Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NondecreasingArray.java)||
+|33|[463-Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/IslandPerimeter.java)||
+|32|[419-Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BattleshipsInABoard.java)||
+|33|[442-Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|Medium|[java]()|好题 想了很久 重点是要符合时间复杂度O(n)和阅读题干条件||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

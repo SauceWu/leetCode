@@ -34,17 +34,18 @@ sort 文件夹下是几种常见的排序方法
 |26|[566-Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReshapeTheMatrix.java)||
 |27|[766-Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReshapeTheMatrix.java)||
 |28|[763-Partition Labels](https://leetcode.com/problems/partition-labels/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PartitionLabels.java)||
-|29|[762-Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PrimeNumberOfSetBitsInBinaryRepresentation.java)||
+|29|[762-Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PrimeNumberOf SetBitsInBinaryRepresentation.java)||
 |30|[496-Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NextGreaterElementI.java)||
 |31|[406-Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/QueueReconstructionByHeight.java)||
 |32|[665-Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NondecreasingArray.java)||
 |33|[463-Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/IslandPerimeter.java)||
 |32|[419-Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BattleshipsInABoard.java)||
 |33|[442-Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/FindAllDuplicatesInAnArray.java)|好题 想了很久 重点是要符合时间复杂度O(n)和阅读题干条件||
-|34|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SingleElementInASortedArray.java)|这是我见过最简单的Medium|
-
-
-
+|34|[540- Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SingleElementInASortedArray.java)|这是我见过最简单的Medium|
+|35|[513- Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/FindBottomLeftTreeValue.java)||
+|36|[521- Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LongestUncommonSubsequenceI.java)|这题的难度在于阅读题干 —_— 亮点在于评论区|
+|37|[693- Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LongestUncommonSubsequenceI.java)||
+|38|[136- Single Number](https://leetcode.com/problems/single-number/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SingleNumber.java)||
 
 
 

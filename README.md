@@ -46,8 +46,8 @@ sort 文件夹下是几种常见的排序方法
 |36|[521- Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LongestUncommonSubsequenceI.java)|这题的难度在于阅读题干 —_— 亮点在于评论区|
 |37|[693- Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LongestUncommonSubsequenceI.java)||
 |38|[136- Single Number](https://leetcode.com/problems/single-number/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SingleNumber.java)||
-
-
+|39|[553- Optimal Division](https://leetcode.com/problems/optimal-division/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/optimalDivision.java)|要做到被除数最大 除数最小 脑筋急转弯|
+|40|[647- Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PalindromicSubstrings.java)||
 
 
 

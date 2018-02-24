@@ -11,15 +11,15 @@ class MergeTwoBinaryTrees {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         TreeNode tmp = t1;
         TreeNode tmp2 = t2;
-        tmp.setVal(tmp.getVal() + tmp2.getVal());
-        while (tmp.getLeft().getVal() == 0 && tmp2.getLeft().getVal() == 0) {
-            tmp = tmp.getLeft();
-            tmp2 = tmp2.getLeft();
-            tmp.setVal(tmp.getVal() + tmp2.getVal());
-            while (tmp.getRight().getVal() == 0 && tmp2.getRight().getVal() == 0) {
-                tmp = tmp.getRight();
-                tmp2 = tmp2.getRight();
-                tmp.setVal(tmp.getVal() + tmp2.getVal());
+        tmp.val=(tmp.val + tmp2.val);
+        while (tmp.left.val == 0 && tmp2.left.val == 0) {
+            tmp = tmp.left;
+            tmp2 = tmp2.left;
+            tmp.val=(tmp.val + tmp2.val);
+            while (tmp.right.val == 0 && tmp2.right.val == 0) {
+                tmp = tmp.right;
+                tmp2 = tmp2.right;
+                tmp.val=(tmp.val + tmp2.val);
             }
         }
         return tmp;

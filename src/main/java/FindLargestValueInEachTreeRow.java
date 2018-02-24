@@ -17,13 +17,13 @@ class FindLargestValueInEachTreeRow {
 
     public void findBottomLeftValue(TreeNode root, int depth, List<Integer> res) {
         if (res.size() > depth) {
-            if (res.get(depth) < root.getVal()) {
-                res.set(depth, root.getVal());
+            if (res.get(depth) < root.val) {
+                res.set(depth, root.val);
             }
         } else {
-            res.add(root.getVal());
+            res.add(root.val);
         }
-        if (root.getLeft() != null) findBottomLeftValue(root.getLeft(), depth + 1, res);
-        if (root.getRight() != null) findBottomLeftValue(root.getRight(), depth + 1, res);
+        if (root.left != null) findBottomLeftValue(root.left, depth + 1, res);
+        if (root.right != null) findBottomLeftValue(root.right, depth + 1, res);
     }
 }

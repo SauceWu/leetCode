@@ -12,11 +12,11 @@ class FindBottomLeftTreeValue {
 
     public int findBottomLeftValue(TreeNode root, int depth, int[] res) {
         if (res[1] < depth) {
-            res[0] = root.getVal();
+            res[0] = root.val;
             res[1] = depth;
         }
-        if (root.getLeft() != null) findBottomLeftValue(root.getLeft(), depth + 1, res);
-        if (root.getRight() != null) findBottomLeftValue(root.getRight(), depth + 1, res);
+        if (root.left != null) findBottomLeftValue(root.left, depth + 1, res);
+        if (root.right != null) findBottomLeftValue(root.right, depth + 1, res);
         return res[0];
     }
 }

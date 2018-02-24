@@ -48,13 +48,15 @@ sort 文件夹下是几种常见的排序方法
 |38|[136- Single Number](https://leetcode.com/problems/single-number/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SingleNumber.java)||
 |39|[553- Optimal Division](https://leetcode.com/problems/optimal-division/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/optimalDivision.java)|要做到被除数最大 除数最小 脑筋急转弯|
 |40|[647- Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PalindromicSubstrings.java)||
-
-
-
-
-
-
-
+|41|[112- Path Sum](https://leetcode.com/problems/path-sum/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PathSum.java)||
+|42|[144- Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinaryTreePreorderTraversal.java)||
+|43|[145- Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Head|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinaryTreePostorderTraversal.java)||
+|44|[94- Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinaryTreeInorderTraversal.java)||
+|45|[102- Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinaryTreeLevelOrderTraversal.java)||
+|46|[104- Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MaximumDepthofBinaryTree.java)||
+|47|[101- Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SymmetricTree.java)
+|48|[105- Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)||
+|49|[106- Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)||
 
 
 

@@ -57,7 +57,7 @@ sort 文件夹下是几种常见的排序方法
 |47|[101- Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SymmetricTree.java)
 |48|[105- Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)||
 |49|[106- Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)||
-
+|50|[116- Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PopulatingNextRightPointersInEachNode.java)||
 
 
 

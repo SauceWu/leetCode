@@ -1,3 +1,5 @@
+import bean.ListNode;
+
 /**
  * @author sauceWu .
  * @since 2018/1/8 12:34
@@ -72,25 +74,4 @@ class AddTwoNumber {
         return listNode;
     }
 
-    public class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-
-        @Override
-        public String toString() {
-            StringBuilder sb = new StringBuilder(String.valueOf(this.val) + "-");
-            ListNode s = this.next;
-            while (s != null) {
-                sb.append(s.val).append('a');
-
-                s = s.next;
-            }
-
-            return sb.toString();
-        }
-    }
 }

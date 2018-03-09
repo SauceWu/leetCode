@@ -47,12 +47,12 @@ public class Sort {
         if (low >= high) {
             return;
         }
-        int index = s(array, low, high);
+        int index = sort(array, low, high);
         quickSort(array, low, index - 1);
         quickSort(array, index+1, high);
     }
 
-    private static int s(int[] array, int low, int high) {
+    private static int sort(int[] array, int low, int high) {
         int key = array[low];
         while (low < high) {
             while (key <= array[high] && low < high) {

@@ -34,7 +34,7 @@ sort 文件夹下是几种常见的排序方法
 |26|[566-Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReshapeTheMatrix.java)||
 |27|[766-Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReshapeTheMatrix.java)||
 |28|[763-Partition Labels](https://leetcode.com/problems/partition-labels/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PartitionLabels.java)||
-|29|[762-Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PrimeNumberOf SetBitsInBinaryRepresentation.java)||
+|29|[762-Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PrimeNumberOfSetBitsInBinaryRepresentation.java)||
 |30|[496-Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NextGreaterElementI.java)||
 |31|[406-Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/QueueReconstructionByHeight.java)||
 |32|[665-Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)|easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NondecreasingArray.java)||
@@ -54,12 +54,12 @@ sort 文件夹下是几种常见的排序方法
 |44|[94- Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinaryTreeInorderTraversal.java)||
 |45|[102- Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinaryTreeLevelOrderTraversal.java)||
 |46|[104- Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MaximumDepthofBinaryTree.java)||
-|47|[101- Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SymmetricTree.java)
+|47|[101- Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/SymmetricTree.java)||
 |48|[105- Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)||
 |49|[106- Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)||
 |50|[116- Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/PopulatingNextRightPointersInEachNode.java)||
 |51|[206- Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseLinkedList.java)||
-|52|[]
+
 
 
 

@@ -1,5 +1,6 @@
 package bean;
 
+
 import org.jetbrains.annotations.Nullable;
 
 import java.util.LinkedList;
@@ -16,7 +17,7 @@ public class TreeNode {
     }
 
     public int val;
-    public TreeNode left,right;
+    public TreeNode left, right;
 
 
     @Nullable
@@ -34,7 +35,7 @@ public class TreeNode {
         nodeQueue.add(root);
 
         int index = 1;
-        while(!nodeQueue.isEmpty()) {
+        while (!nodeQueue.isEmpty()) {
             TreeNode node = nodeQueue.remove();
 
             if (index == parts.length) {
@@ -73,7 +74,7 @@ public class TreeNode {
         String output = "";
         Queue<TreeNode> nodeQueue = new LinkedList<>();
         nodeQueue.add(root);
-        while(!nodeQueue.isEmpty()) {
+        while (!nodeQueue.isEmpty()) {
             TreeNode node = nodeQueue.remove();
 
             if (node == null) {

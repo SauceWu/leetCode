@@ -2,7 +2,7 @@
 leetCode刷题练习册
 sort 文件夹下是几种常见的排序方法
 顺序是从ar率高->低
-
+1
 | # | Problem |    Level    |  Language | des|
 |:-------:|:-------:|:--------------|:------:|:---------:|
 |0|[1-Two Sum](https://leetcode.com/problems/two-sum/description/)|easy|[Java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/TwoSum.java)||
@@ -61,5 +61,7 @@ sort 文件夹下是几种常见的排序方法
 |51|[206- Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|Medium|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ReverseLinkedList.java)||
 |52|[278- First Bad Version](https://leetcode.com/problems/first-bad-version)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/firstBadVersion.java)| |
 |53|[796- Rotate String](https://leetcode.com/problems/rotate-string/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/RotateString.java)|so cooooool|
-
+|54|[961- N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/RotateString.java)||
+|55|[929- Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/UniqueEmailAddresses.java)||
+|56|[70- Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ClimbStairs.java)|面试时被问到了 懵了 居然写了个蠢B的递归 心疼自己|
 

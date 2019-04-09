@@ -1,20 +1,26 @@
 package sort;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Random;
 
 public class Sort {
-
     public static void main(String[] args) {
-        int[] array = new int[100];
+        int[] array = new int[10000];
         Random random = new Random();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 10000; i++) {
             array[i] = random.nextInt(100);
         }
-        quickSort(array, 0, array.length - 1);
-//        insertSort(array);
-        for (int i : array) {
-            System.out.print(i + "-");
-        }
+        long time = System.currentTimeMillis();
+//        quickSort(array, 0, array.length - 1);
+//        insertSort(array);y
+        Arrays.sort(array);
+        System.out.print(System.currentTimeMillis() - time);
+
+
+//        for (int i : array) {
+//            System.out.print(i + "-");
+//        }
 
     }
 
@@ -43,13 +49,23 @@ public class Sort {
 
     }
 
+//        public static void quickSort(int[] array, int low, int high) {
+//        if (low >= high) {
+//            return;
+//        }
+//        int index = sort(array, low, high);
+//        quickSort(array, low, index - 1);
+//        quickSort(array, index + 1, high);
+//    }
     public static void quickSort(int[] array, int low, int high) {
-        if (low >= high) {
-            return;
+        int pivot;
+
+        while (low < high) {
+            pivot = sort(array, low, high);
+            quickSort(array, low, pivot - 1); // 对低子表递归排序
+            low = pivot + 1; // 尾递归
         }
-        int index = sort(array, low, high);
-        quickSort(array, low, index - 1);
-        quickSort(array, index+1, high);
+
     }
 
     private static int sort(int[] array, int low, int high) {

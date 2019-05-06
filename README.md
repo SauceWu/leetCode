@@ -64,4 +64,6 @@ sort 文件夹下是几种常见的排序方法
 |54|[961- N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/RotateString.java)||
 |55|[929- Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/UniqueEmailAddresses.java)||
 |56|[70- Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/ClimbStairs.java)|面试时被问到了 懵了 居然写了个蠢B的递归 心疼自己|
+|57|[121- Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BestTime2BuyAndSellStock.java)|只交易一次 取差值最大就完事了|
+|58|[122- Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii//)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BestTime2BuyAndSellStockII.java)|可交易多次 利润最大化 |
 

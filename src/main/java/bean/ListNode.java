@@ -21,7 +21,7 @@ public class ListNode {
         // Now convert that list into linked list
         ListNode dummyRoot = new ListNode(0);
         ListNode ptr = dummyRoot;
-        for(int item : nodeValues) {
+        for (int item : nodeValues) {
             ptr.next = new ListNode(item);
             ptr = ptr.next;
         }
@@ -40,6 +40,7 @@ public class ListNode {
         }
         return "[" + result.substring(0, result.length() - 1) + "]";
     }
+
     public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
@@ -49,7 +50,7 @@ public class ListNode {
 
         String[] parts = input.split(",");
         int[] output = new int[parts.length];
-        for(int index = 0; index < parts.length; index++) {
+        for (int index = 0; index < parts.length; index++) {
             String part = parts[index].trim();
             output[index] = Integer.parseInt(part);
         }
@@ -58,4 +59,8 @@ public class ListNode {
 
     }
 
+    @Override
+    public String toString() {
+        return listNodeToString(this);
+    }
 }

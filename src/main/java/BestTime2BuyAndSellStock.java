@@ -4,7 +4,7 @@
  */
 
 public class BestTime2BuyAndSellStock {
-    //    盈亏必然是 相邻两次价格的差值 排除亏的 就是盈利
+    //    盈亏必然是 相邻两次价格的差值 排除亏的 就是盈利 贪心算法
     public int maxProfit(int[] prices) {
         int leng = prices.length;
         if (leng == 0) {

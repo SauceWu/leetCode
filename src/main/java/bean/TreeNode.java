@@ -88,4 +88,9 @@ public class TreeNode {
         }
         return "[" + output.substring(0, output.length() - 2) + "]";
     }
+
+    @Override
+    public String toString() {
+        return treeNodeToString(this);
+    }
 }

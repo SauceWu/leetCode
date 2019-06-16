@@ -35,7 +35,7 @@ public class ListNode {
 
         StringBuilder result = new StringBuilder();
         while (node != null) {
-            result.append(Integer.toString(node.val)).append(",");
+            result.append(node.val).append(",");
             node = node.next;
         }
         return "[" + result.substring(0, result.length() - 1) + "]";

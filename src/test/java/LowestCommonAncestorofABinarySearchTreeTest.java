@@ -13,6 +13,6 @@ public class LowestCommonAncestorofABinarySearchTreeTest {
     @Test
     public void lowestCommonAncestor() {
         LowestCommonAncestorofABinarySearchTree test = new LowestCommonAncestorofABinarySearchTree();
-        Assert.assertEquals(2, test.lowestCommonAncestor(TreeNode.stringToTreeNode("[6,2,8,0,4,7,9,null,null,3,5]"), new TreeNode(2), new TreeNode(4)).val);
+        Assert.assertEquals(6, test.lowestCommonAncestor(TreeNode.stringToTreeNode("[6,2,8,0,4,7,9,null,null,3,5]"), new TreeNode(2), new TreeNode(4)).val);
     }
 }

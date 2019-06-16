@@ -80,4 +80,6 @@ sort 文件夹下是几种常见的排序方法
 |70|[747- Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LargestNumberAtLeastTwiceofOthers.java)| |
 |71|[235- Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LowestCommonAncestorofABinarySearchTree.java)| |
 |72|[747-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MergeTwoSortedLists.java)| |
-
+|73|[236- Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LowestCommonAncestorOfABinaryTree.java)| |
+|74|[704- Binary Search](https://leetcode.com/problems/binary-search/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinarySearch.java)| |
+|75|[8-String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/String2Integer.java))

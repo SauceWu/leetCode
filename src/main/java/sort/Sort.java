@@ -1,7 +1,5 @@
 package sort;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Random;
 
 public class Sort {
@@ -12,15 +10,15 @@ public class Sort {
             array[i] = random.nextInt(100);
         }
         long time = System.currentTimeMillis();
-//        quickSort(array, 0, array.length - 1);
+        quickSort(array, 0, array.length - 1);
 //        insertSort(array);y
-        Arrays.sort(array);
+//        Arrays.sort(array);
         System.out.print(System.currentTimeMillis() - time);
 
 
-//        for (int i : array) {
-//            System.out.print(i + "-");
-//        }
+        for (int i : array) {
+            System.out.print(i + "-");
+        }
 
     }
 

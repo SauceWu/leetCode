@@ -82,4 +82,9 @@ sort 文件夹下是几种常见的排序方法
 |72|[747-Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MergeTwoSortedLists.java)| |
 |73|[236- Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LowestCommonAncestorOfABinaryTree.java)| |
 |74|[704- Binary Search](https://leetcode.com/problems/binary-search/)|Easy|[java](https://github.com/unknownSauce/leetCode/blob/master/src/main/java/BinarySearch.java)| |
-|75|[8-String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/String2Integer.java))
+|75|[8-String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/String2Integer.java))||
+|76|[3- Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/LongestSubstringWithoutRepeatingCharacters.java))||
+|77|[4- Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/)|Hard|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/MedianOfTwoSortedArrays.java))||
+|78|[867- Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|Easy|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/TransposeMatrix.java))||
+|79|[31- Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/NextPermutation.java))||
+|80|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)||Medium|[java]((https://github.com/unknownSauce/leetCode/blob/master/src/main/java/TransposeMatrix.java))||

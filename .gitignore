@@ -65,4 +65,6 @@ hs_err_pid*
 .gradle/
 .idea/
 out/
+.classpath
+.project
 

@@ -1,5 +1,8 @@
 package sort;
 
+import org.jetbrains.annotations.NotNull;
+
+import java.util.Arrays;
 import java.util.Random;
 
 public class Sort {
@@ -7,13 +10,13 @@ public class Sort {
         int[] array = new int[10000];
         Random random = new Random();
         for (int i = 0; i < 10000; i++) {
-            array[i] = random.nextInt(100);
+            array[i] = random.nextInt(20000);
         }
         long time = System.currentTimeMillis();
         quickSort(array, 0, array.length - 1);
-//        insertSort(array);y
+//        insertSort(array);
 //        Arrays.sort(array);
-        System.out.print(System.currentTimeMillis() - time);
+        System.out.print("time"+(System.currentTimeMillis() - time)+"\n");
 
 
         for (int i : array) {
@@ -66,7 +69,7 @@ public class Sort {
 
     }
 
-    private static int sort(int[] array, int low, int high) {
+    private static int sort(@NotNull int[] array, int low, int high) {
         int key = array[low];
         while (low < high) {
             while (key <= array[high] && low < high) {

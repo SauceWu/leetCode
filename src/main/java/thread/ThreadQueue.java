@@ -17,7 +17,7 @@ public class ThreadQueue {
      */
 
     private final int count;
-    //保证原子性 volatile int 也可以
+    //保证原子性 
     private AtomicInteger index = new AtomicInteger(0);
     //可重入锁
     private Lock lock = new ReentrantLock();

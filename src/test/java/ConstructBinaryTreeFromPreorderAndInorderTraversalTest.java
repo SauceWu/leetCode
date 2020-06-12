@@ -15,4 +15,10 @@ public class ConstructBinaryTreeFromPreorderAndInorderTraversalTest {
                 TreeNode.treeNodeToString(new ConstructBinaryTreeFromPreorderAndInorderTraversal()
                         .buildTree(new int[]{3, 9, 20, 15, 7}, new int[]{9, 3, 15, 20, 7})));
     }
+    @Test
+    public void buildTree2() {
+        Assert.assertEquals("[3,9,20,null,null,15,7,null,null,null]",
+                TreeNode.treeNodeToString(new ConstructBinaryTreeFromPreorderAndInorderTraversal()
+                        .buildTree2(new int[]{3, 9, 20, 15, 7}, new int[]{9, 3, 15, 20, 7})));
+    }
 }

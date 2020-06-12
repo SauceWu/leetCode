@@ -27,4 +27,24 @@ public class LongestPalindromicSubstring {
         }
         return R - L - 1;
     }
+
+    public String longestPalindromeDP(String s) {
+        if (s == null || s.length() < 2) {
+            return s;
+        }
+        int strLen = s.length();
+        int maxStart = 0;  //最长回文串的起点
+        int maxEnd = 0;    //最长回文串的终点
+        int maxLen = 1;  //最长回文串的长度
+
+        boolean[][] dp = new boolean[strLen][strLen];
+
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i + 1; j < s.length() - 1;j++){
+            }
+        }
+        return s.substring(maxStart, maxEnd + 1);
+
+
+    }
 }

@@ -71,18 +71,18 @@ public class TreeNode {
             return "[]";
         }
 
-        String output = "";
+        StringBuilder output = new StringBuilder();
         Queue<TreeNode> nodeQueue = new LinkedList<>();
         nodeQueue.add(root);
-        while (!nodeQueue.isEmpty()) {
+        while(!nodeQueue.isEmpty()) {
             TreeNode node = nodeQueue.remove();
 
             if (node == null) {
-                output += "null,";
+                output.append("null,");
                 continue;
             }
 
-            output += String.valueOf(node.val) + ",";
+            output.append(String.valueOf(node.val)).append(", ");
             nodeQueue.add(node.left);
             nodeQueue.add(node.right);
         }
